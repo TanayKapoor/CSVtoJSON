@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PRCbyGmz/KmXpTmWg6SBnRS8XfWahLv1hMR92U+UWP11YFi7JdjCusMvTqff95s5tP+nNwzPIHtA4TWLgbK6SQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tanay.kapoor\\source\\repos\\CsvToJsonProject_Solution\\CsvToJsonUtility\\CsvToJsonUtility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tanay.kapoor\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
